@@ -64,6 +64,3 @@
   <br><br>
   <span style="color:#93c5fd;">— Ivan Sutherland</span>
 </p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/andrada0410">andrada0410</a></i></p>
