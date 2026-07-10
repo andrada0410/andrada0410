@@ -58,7 +58,11 @@
 ### 💭 Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+  <span style="color:#5eead4; font-style:italic; font-size:18px;">
+  "A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland."
+  </span>
+  <br><br>
+  <span style="color:#93c5fd;">— Ivan Sutherland</span>
 </p>
 
 ---
